@@ -1,0 +1,12 @@
+check-palindrom: checks if word is a palindrom word
+check-president: checks if someone is a president
+piramid-half: prints half piramid
+game: opens a game!
+help: shows commands
+showUsage: shows usage
+showDescription: shows this description
+devide: devides two numbers
+square: squares number
+string-adder: adds on string
+string-length: prints string lenght
+string-slow-word-printer: prints one char at thime

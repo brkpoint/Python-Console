@@ -1,0 +1,12 @@
+check-palindrom: <string>
+check-president: <string>, <string>, <number>
+piramid-half: <char>, <number>
+game: NULL
+help: NULL
+showUsage: NULL
+showDesc: NULL
+devide: <number>, <number>
+square: <number>
+string-adder: <string>, <number>
+string-length: <string>
+string-slow-word-printer: <string>
