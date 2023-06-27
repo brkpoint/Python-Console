@@ -1,2 +1,2 @@
-# ConsoleApp in python
-app in console
+# Python-Console
+Console made in python
